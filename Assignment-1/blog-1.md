@@ -1,6 +1,6 @@
 # The significance of union and intersection types in typescript
 
-## So , todays topic is union and intersection types in typescript , which is one of the important and most used types in typescript.
+## So , todays topic is union and intersection types in typescript , which is one of the most important and most used types in typescript.
 
 ### Before we discuss about them at first we need to know about them
 
